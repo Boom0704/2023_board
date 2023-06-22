@@ -1,0 +1,11 @@
+*user
+id
+email
+password
+
+*post
+email
+id
+title
+content
+created_at
